@@ -1,0 +1,2 @@
+# -McDonald_s_nutrion_fact_analysis
+The aim of this project is to analyze and discuss the nutrition fact of the McDonald’s American menu. We will simply cluster the menu in order to find some interesting result and will see what are the effect of some micro/macro nutrient on calories (in this particular example). All of this will be done using unsupervised learning statistical methods, like clustering and Principal Component Analysis, and some data visualization to correctly understand our result.
